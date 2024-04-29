@@ -1,0 +1,2 @@
+https://www.playforum.net/,icon-search-thin,name,sc_word
+https://www.gameabout.com/,user-allbtn,name,sc_word

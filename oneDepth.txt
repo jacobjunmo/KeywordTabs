@@ -1,0 +1,2 @@
+https://www.inven.co.kr/search/webzine/news,name,searchword
+https://bbs.ruliweb.com/,name,q
