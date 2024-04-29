@@ -1,8 +1,0 @@
-https://www.playforum.net/,icon-search-thin,name,sc_word
-https://www.gameabout.com/,user-allbtn,name,sc_word
-https://www.gamevu.co.kr/,inptxt,name,sc_word
-https://www.gametoc.co.kr/,icon-search-thin,name,sc_word
-https://game.mk.co.kr/,bt_gnb_srch,name,s_keyword
-https://www.gameple.co.kr/,icon-search,name,sc_word
-https://www.gameinsight.co.kr/,user-allbtn,name,sc_word
-http://www.gameand.co.kr/?,inptxt,name,sc_word
